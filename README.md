@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I´m currently working at Hobby Informática Ltda
+I´m currently learning HTML, CSS, JAVASCRIPT ,SQL, NODEJS, REACTJS, JAVA
+How to reach me: @ljanotte
